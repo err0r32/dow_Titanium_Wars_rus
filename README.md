@@ -1,5 +1,5 @@
 # dow_Titanium_Wars_rus
-Русский перевод мода DOW SS Titanium_Wars
+Перевод мода на русский язык DOW SS Titanium_Wars
 
 Скачать перевод: 
 https://github.com/err0r32/dow_Titanium_Wars_rus/releases
