@@ -12,4 +12,7 @@ https://www.moddb.com/mods/titanium-wars-mod-ss
 https://steamcommunity.com/sharedfiles/filedetails/?id=1815691369
 автор перевода PokaziKishki
 
+Страница Steam
+https://steamcommunity.com/sharedfiles/filedetails/?id=2993011833
+
 Не отказался бы от помощи в переводе.
