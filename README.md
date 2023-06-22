@@ -10,6 +10,6 @@ https://www.moddb.com/mods/titanium-wars-mod-ss
 
 Перевод основан на фаилах другого переводчика, на данный момент он заброшен.
 https://steamcommunity.com/sharedfiles/filedetails/?id=1815691369
-авто перевода PokaziKishki
+автор перевода PokaziKishki
 
 Не отказался бы от помощи в переводе.
